@@ -53,7 +53,7 @@ function Index() {
             body copy, surfaces and controls included.
           </p>
           <div className="mt-9 flex flex-wrap gap-3">
-            <button className="rounded-md bg-navy-accent px-5 py-2.5 text-sm font-semibold text-navy transition-opacity hover:opacity-90">
+            <button className="rounded-md bg-navy-foreground px-5 py-2.5 text-sm font-semibold text-navy transition-opacity hover:opacity-90">
               Primary action
             </button>
             <button className="rounded-md border border-navy-foreground/25 px-5 py-2.5 text-sm font-semibold text-navy-foreground transition-colors hover:bg-navy-foreground/10">
